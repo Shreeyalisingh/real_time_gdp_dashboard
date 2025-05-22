@@ -23,4 +23,4 @@ A Python-based dashboard that fetches live GDP data using a RESTful API, perform
 
 ---
 ## Screenshot taken at 5 AM on 22 May 2025
-![GDP Trend Plot](images/newplot.png)
+![GDP Trend Plot](newplot.png)
